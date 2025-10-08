@@ -116,7 +116,7 @@ This app showcases what's possible with Dynatrace custom applications by providi
 
 ### Prerequisites
 
-- Dynatrace environment (SaaS or Managed)
+- Dynatrace environment (SaaS Only)
 - Dynatrace App Toolkit installed: `npm install -g @dynatrace/dt-app`
 - Node.js 18 or higher
 - Valid Dynatrace API token with app deployment permissions
