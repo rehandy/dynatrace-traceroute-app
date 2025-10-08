@@ -31,22 +31,26 @@ This app showcases what's possible with Dynatrace custom applications by providi
 ## Screenshots
 
 ### Main Dashboard
-[Add screenshot of the main app view showing the schedule list]
+<img width="1702" height="998" alt="image" src="https://github.com/user-attachments/assets/4695ddc7-8feb-4a22-8b41-abd848bdf01f" />
 
 ### Schedule Creation
-[Add screenshot of the form for creating a new traceroute schedule]
+<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/a6ce7f11-5911-46ac-a24d-365b8bf295dd" />
 
 ### Traceroute Map View
-[Add screenshot of the interactive map showing traceroute hops with geographic locations]
+<img width="1688" height="997" alt="image" src="https://github.com/user-attachments/assets/43ef2660-9cc7-48a5-b473-670032c71a7e" />
 
 ### Traceroute Table View
-[Add screenshot of the detailed table showing hop-by-hop information]
+<img width="1695" height="1005" alt="image" src="https://github.com/user-attachments/assets/731f8825-1182-4939-9114-d8c9f32fb184" />
 
 ### Workflow Integration
-[Add screenshot of the "Create Workflow" button and the resulting workflow in Dynatrace]
+<img width="1702" height="1001" alt="image" src="https://github.com/user-attachments/assets/10570218-6325-4961-a687-cfbbe77398cf" />
+<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/b5994f52-5d3d-465f-83fa-1cc713863a07" />
 
 ### Workflow Action Widget
-[Add screenshot of the custom workflow action widget showing the schedule dropdown]
+<img width="1700" height="1001" alt="image" src="https://github.com/user-attachments/assets/6776831b-fbe6-4da8-8a20-91ba69cd5ac8" />
+
+### Workflow Action Result
+<img width="1699" height="999" alt="image" src="https://github.com/user-attachments/assets/3237b91e-ab14-41de-9465-22c43b0c8344" />
 
 ## APIs and Services Used
 
