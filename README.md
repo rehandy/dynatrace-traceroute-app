@@ -31,26 +31,26 @@ This app showcases what's possible with Dynatrace custom applications by providi
 ## Screenshots
 
 ### Main Dashboard
-<img width="1702" height="998" alt="image" src="https://github.com/user-attachments/assets/4695ddc7-8feb-4a22-8b41-abd848bdf01f" />
+<img width="1702" height="998" alt="image" src="https://github.com/user-attachments/assets/f641dc0d-292d-414e-bf36-abf7c9373448" />
 
 ### Schedule Creation
-<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/a6ce7f11-5911-46ac-a24d-365b8bf295dd" />
+<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/8009e007-cf74-49e2-96ca-db39b3fa525f" />
 
 ### Traceroute Map View
-<img width="1688" height="997" alt="image" src="https://github.com/user-attachments/assets/43ef2660-9cc7-48a5-b473-670032c71a7e" />
+<img width="1688" height="997" alt="image" src="https://github.com/user-attachments/assets/7e0af132-f592-478b-993d-e5f44df5f815" />
 
 ### Traceroute Table View
-<img width="1695" height="1005" alt="image" src="https://github.com/user-attachments/assets/731f8825-1182-4939-9114-d8c9f32fb184" />
+<img width="1695" height="1005" alt="image" src="https://github.com/user-attachments/assets/1c38b3a0-bc02-4b3f-827e-8989b8e09c63" />
 
 ### Workflow Integration
-<img width="1702" height="1001" alt="image" src="https://github.com/user-attachments/assets/10570218-6325-4961-a687-cfbbe77398cf" />
-<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/b5994f52-5d3d-465f-83fa-1cc713863a07" />
+<img width="1702" height="1001" alt="image" src="https://github.com/user-attachments/assets/67b9dd80-1c4d-4cb3-aa59-2f4c57dab560" />
+<img width="1703" height="1001" alt="image" src="https://github.com/user-attachments/assets/2d30f47e-e6e4-4d69-b9ab-390e367a0ce6" />
 
 ### Workflow Action Widget
-<img width="1700" height="1001" alt="image" src="https://github.com/user-attachments/assets/6776831b-fbe6-4da8-8a20-91ba69cd5ac8" />
+<img width="1700" height="1001" alt="image" src="https://github.com/user-attachments/assets/2ee915b6-2dcf-469a-a63b-faa98507853e" />
 
 ### Workflow Action Result
-<img width="1699" height="999" alt="image" src="https://github.com/user-attachments/assets/3237b91e-ab14-41de-9465-22c43b0c8344" />
+<img width="1699" height="999" alt="image" src="https://github.com/user-attachments/assets/d4ae1899-2f38-44b8-90d6-67c6d73b0502" />
 
 ## APIs and Services Used
 
