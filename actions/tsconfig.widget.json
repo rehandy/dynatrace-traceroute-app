@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.action.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true
+  }
+}

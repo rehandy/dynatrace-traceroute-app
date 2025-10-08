@@ -1,0 +1,54 @@
+{
+  "environmentUrl": "",
+  "app": {
+    "name": "Visual Traceroute V2",
+    "version": "0.0.44",
+    "description": "Visual traceroute with geographic mapping using App Functions",
+    "id": "my.traceroute.app.v.2",
+    "icon": "./icon.svg",
+    "scopes": [
+      {
+        "name": "app-engine:apps:run",
+        "comment": "Required for running the app"
+      },
+      {
+        "name": "environment-api:entities:read",
+        "comment": "Read entity data"
+      },
+      {
+        "name": "storage:logs:write",
+        "comment": "Ingest logs into Dynatrace"
+      },
+      {
+        "name": "state:app-states:read",
+        "comment": "Read app state for schedule storage"
+      },
+      {
+        "name": "state:app-states:write",
+        "comment": "Write app state for schedule storage"
+      },
+      {
+        "name": "app-settings:objects:read",
+        "comment": "To read app settings"
+      }
+    ],
+    "allowedOutboundConnections": [
+      "https://api.ip2location.io",
+      "http://ip-api.com",
+      "https://ipwhois.app",
+      "https://dns.google"
+    ],
+    "actions": [
+      {
+        "build": {
+          "entryPoint": "src\\main.tsx",
+          "tsconfig": "tsconfig.json"
+        },
+        "name": "runTraceroute",
+        "title": "Run Traceroute Schedule",
+        "description": "Execute a scheduled traceroute and ingest results as logs",
+        "isUiAction": false
+      }
+    ]
+  }
+}
